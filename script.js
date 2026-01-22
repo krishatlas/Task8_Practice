@@ -1,1 +1,1 @@
-console.log("GitHub Workflow loaded");
+console.log("Output message once loaded");
