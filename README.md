@@ -1,1 +1,2 @@
-This is README.md
+# GitHub Workflow Demo
+This project demonstrates a real-world GitHub PR workflow.
